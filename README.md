@@ -27,13 +27,14 @@ pip install -r requirements.txt
 
 ## Utilisation
 
-1. Lancez le programme en tant qu'administrateur :
+1. Lancez le programme en tant qu'administrateur avec le CMD en Admin :
 ```bash
-python multitool.py
+python C:\ou-est-situé-le-repertoire\dossier\multitool.py
 ```
 
 2. Suivez les instructions du menu pour utiliser les différentes fonctionnalités
 
 ## Note importante
+
 
 Ce programme nécessite des droits administrateur pour fonctionner correctement. Certaines fonctionnalités peuvent être désactivées par les politiques de sécurité de votre système. 
